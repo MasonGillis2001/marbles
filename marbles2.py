@@ -18,7 +18,7 @@ for x in range(6):
                 print(f'You found a green marble. you have {tries_remaining} tries remaining.')
                 break
     else:
-        print('sorry, you are out of tires.')
+        print('sorry, you are out of tries.')
 print(f'Here are all the marbles that were chosen {marbles_chose}')
 #This program will loop until a green is found.
             
